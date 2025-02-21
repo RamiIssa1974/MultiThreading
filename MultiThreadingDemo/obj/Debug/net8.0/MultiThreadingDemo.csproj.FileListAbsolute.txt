@@ -1,0 +1,15 @@
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.exe
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.deps.json
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.runtimeconfig.json
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.dll
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\bin\Debug\net8.0\MultiThreadingDemo.pdb
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.AssemblyInfo.cs
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.sourcelink.json
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.dll
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\refint\MultiThreadingDemo.dll
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.pdb
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\MultiThreadingDemo.genruntimeconfig.cache
+C:\Users\Rami Issa\source\repos\RamiIssa1974\MultiThreading\MultiThreadingDemo\obj\Debug\net8.0\ref\MultiThreadingDemo.dll
