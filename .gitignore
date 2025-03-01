@@ -3,6 +3,8 @@
 .vs/
 bin/
 obj/
+Data/
+Images/
 
 *.user
 *.suo
